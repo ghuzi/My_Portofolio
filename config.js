@@ -1,6 +1,6 @@
 const portfolioData = {
   name: "Muhammad Ghuzaif Bin Arif",
-  profileImage: "images/profile.jpg",
+  profileImage: "profile.jpg",
   title: "AI & Machine Learning Student",
   tagline: "Building Intelligent Systems That Solve Real Problems",
   email: "ghuzaifarif3@gmail.com",
